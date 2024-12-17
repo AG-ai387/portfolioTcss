@@ -1,6 +1,5 @@
-import React from 'react'
-import { CiMenuKebab } from "react-icons/ci";
-import Link from 'next/link';
+
+import { CiMenuKebab } from "react-icons/ci"
 
 
 const Navbar = () => {

@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { MdOutlineMail } from "react-icons/md";
 import { BsTelephone } from "react-icons/bs";
 
